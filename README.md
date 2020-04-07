@@ -1,1 +1,1 @@
-# TestNGPractice
+# FirstAutomationProject
